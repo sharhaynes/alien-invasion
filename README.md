@@ -39,7 +39,7 @@ Download the `.exe` file from [itch.io](https://5h0gun.itch.io/alien-invasion) a
 - **Q** — Quit game
 
 ## Project Status
-🚧 **Work in Progress** — Core gameplay functional; currently working on [Scoring, Levels, Music and Background]
+**Work in Progress** — Core functionalities present; currently working on [Scoring, Levels, Music and Background]
 
 ## Learning Source
 This project is based on the *Alien Invasion* project from *Python Crash Course: A Hands-On, Project-Based Introduction to Programming* by Eric Matthes.
