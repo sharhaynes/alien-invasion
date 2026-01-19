@@ -3,7 +3,7 @@
 A space shooter game built with Pygame, following the project from *Python Crash Course* by Eric Matthes.
 
 ## Overview
-Alien Invasion is a 2D shooter where the player controls a spaceship and defends against waves of descending aliens. The game features collision detection, enemy AI, and progressive difficulty.
+Alien Invasion is a 2D shooter where the player controls a spaceship and defends against waves of descending aliens. The game features collision detection, and progressive difficulty.
 
 ## Features
 - Player-controlled spaceship with smooth movement
